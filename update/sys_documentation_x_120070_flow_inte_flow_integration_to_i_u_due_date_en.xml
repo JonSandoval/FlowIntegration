@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_due_date" label="Due date" language="en" table="x_120070_flow_inte_flow_integration_to_i">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_due_date</element>
+            <help/>
+            <hint/>
+            <label>Due date</label>
+            <language>en</language>
+            <name>x_120070_flow_inte_flow_integration_to_i</name>
+            <plural>Due dates</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-21 19:01:07</sys_created_on>
+            <sys_id>d6c362854fb32300c3e58deba310c7ba</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Due date</sys_name>
+            <sys_package display_value="Flow Integration For Incident" source="x_120070_flow_inte">acb2e2454fb32300c3e58deba310c766</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Flow Integration For Incident">acb2e2454fb32300c3e58deba310c766</sys_scope>
+            <sys_update_name>sys_documentation_x_120070_flow_inte_flow_integration_to_i_u_due_date_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-21 19:01:07</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
